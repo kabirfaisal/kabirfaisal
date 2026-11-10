@@ -1,27 +1,2 @@
-<h1 align="center">Hi, I'm Faisal Kabir 👋</h1>
-<h3 align="center">AI Engineer · Data Scientist · ML Engineer · Building with LLMs</h3>
-<p align="center">
-  <a href="https://kabirfaisal.de">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
----
-🤖 AI & LLM Projects
-Local LLM Lab: Experiments with open-source LLMs running locally.
-AI JobMatch Assistant: AI assistant that matches resumes to job descriptions.
-Bhasha AI: Language AI project.
-Daily Work Assistant: AI assistant for everyday work tasks.
-📊 Data Science & ML Projects
-Fuel Price Forecasting (LSTM): Time-series forecasting, from my master's project.
-COVID-19 Data Exploration: SQL analysis with a Tableau dashboard.
-Movie Industry Analysis: What drives box-office revenue.
-Deep Network in Keras: A standard deep neural network built in Keras.
----
-<p align="center">💬 Open to AI Engineer / Data Science / ML roles and collaborations.</p>
+<h1 align="center">Hi, I'm Faisal Kabir 👋</h1> <h3 align="center">Data Scientist · ML Engineer · Building with LLMs</h3> <p align="center"> <a href="https://kabirfaisal.github.io">Portfolio</a> • <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> </p> <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> </p> <hr> <h3>🤖 AI &amp; LLM Projects</h3> <ul> <li><a href="https://github.com/kabirfaisal/Local_LLM_Lab"><b>Local LLM Lab</b></a>: Experiments with open-source LLMs running locally.</li> <li><a href="https://github.com/kabirfaisal/AI_JobMatch_Assistant"><b>AI JobMatch Assistant</b></a>: AI assistant that matches resumes to job descriptions.</li> <li><a href="https://github.com/kabirfaisal/Bhasha_AI"><b>Bhasha AI</b></a>: Language AI project.</li> <li><a href="https://github.com/kabirfaisal/daily_wor_assistant"><b>Daily Work Assistant</b></a>: AI assistant for everyday work tasks.</li> </ul> <h3>📊 Data Science &amp; ML Projects</h3> <ul> <li><a href="https://github.com/kabirfaisal/Time_Series_analysis_using_LSTM"><b>Fuel Price Forecasting (LSTM)</b></a>: Time-series forecasting, from my master's project.</li> <li><a href="https://github.com/kabirfaisal/Covid_data_analysis_SQL_Tableau"><b>COVID-19 Data Exploration</b></a>: SQL analysis with a Tableau dashboard.</li> <li><a href="https://github.com/kabirfaisal/Movie_industry_correlation_analysis"><b>Movie Industry Analysis</b></a>: What drives box-office revenue.</li> <li><a href="https://github.com/kabirfaisal/STANDARD-DEEP-NETWORK-IN-KERAS"><b>Deep Network in Keras</b></a>: A standard deep neural network built in Keras.</li> </ul> <hr> <p align="center">💬 Open to Data Science / ML roles and collaborations.</p>
 

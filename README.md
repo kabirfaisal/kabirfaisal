@@ -1,34 +1,27 @@
-Hi, I'm Md Faisal Kabir 👋
-AI Engineer / Machine Learning Engineer turning messy data into forecasts, dashboards and decisions.
-🔭 Currently working on: [Emergency medical Assistant ]
-🎓 [Degree, University] (master's project: fuel price forecasting with LSTMs)
-🌱 Learning: [e.g. MLOps, PyTorch, dbt]
-📫 Reach me: https://www.linkedin.com/in/md-faisal-kabir-2203a4a1/ · https://kabirfaisal.de/
+<h1 align="center">Hi, I'm Faisal Kabir 👋</h1>
+<h3 align="center">AI Engineer · Data Scientist · ML Engineer · Building with LLMs</h3>
+<p align="center">
+  <a href="https://kabirfaisal.de">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
 ---
-🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+🤖 AI & LLM Projects
+Local LLM Lab: Experiments with open-source LLMs running locally.
+AI JobMatch Assistant: AI assistant that matches resumes to job descriptions.
+Bhasha AI: Language AI project.
+Daily Work Assistant: AI assistant for everyday work tasks.
+📊 Data Science & ML Projects
+Fuel Price Forecasting (LSTM): Time-series forecasting, from my master's project.
+COVID-19 Data Exploration: SQL analysis with a Tableau dashboard.
+Movie Industry Analysis: What drives box-office revenue.
+Deep Network in Keras: A standard deep neural network built in Keras.
 ---
-📌 Featured Projects
-Project	What it does	Stack
-🖥️ Local LLM Lab	[Running and experimenting with open-source LLMs locally, e.g. benchmarking models, prompting, RAG]	Python, [Ollama / llama.cpp / Hugging Face]
-💼 AI JobMatch Assistant	[AI assistant that matches resumes to job descriptions and highlights skill gaps]	Python, [LLM API / LangChain]
-🗣️ Bhasha AI	[Language AI project, e.g. Bangla translation / NLP]	Python, [model/framework]
-📅 Daily Work Assistant	[AI assistant that helps organize daily tasks, e.g. summaries, to-dos, reminders]	Python, [framework]
-⛽ Fuel Price Forecasting with LSTM	Time-series forecasting of fuel prices; [add key result, e.g. "RMSE of X"]	Python, TensorFlow/Keras
-🦠 COVID-19 Data Exploration	SQL exploration of global COVID data + interactive Tableau dashboard (live dashboard)	SQL, Tableau
-🎬 Movie Industry Correlation Analysis	What drives box-office gross? Correlation analysis across budget, votes, studio and more	Python, Pandas, Seaborn
-🧠 Deep Network in Keras	[one-line description]	Python, Keras
----
-📊 GitHub Stats
-![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabirfaisal&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirfaisal&layout=compact&hide_border=true)
----
-💬 Open to [AI Engineer / ML roles, collaborations, freelance work]. Feel free to reach out!
+<p align="center">💬 Open to AI Engineer / Data Science / ML roles and collaborations.</p>
 

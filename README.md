@@ -1,2 +1,90 @@
-<h1 align="center">Hi, I'm Faisal Kabir 👋</h1> <h3 align="center">AI Engineer · Data Scientist · ML Engineer · Building with LLMs</h3> <p align="center"> <a href="https://kabirfaisal.github.io">Portfolio</a> • <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> </p> <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> </p> <hr> <h3>🤖 AI &amp; LLM Projects</h3> <ul> <li><a href="https://github.com/kabirfaisal/Local_LLM_Lab"><b>Local LLM Lab</b></a>: Experiments with open-source LLMs running locally.</li> <li><a href="https://github.com/kabirfaisal/ai_research_assistant"><b>AI Research Assistant</b></a>: AI assistant that find scientific papers and summarise those paper etc.</li> <li><a href="https://github.com/kabirfaisal/AI_JobMatch_Assistant"><b>AI JobMatch Assistant</b></a>: AI assistant that matches resumes to job descriptions.</li> <li><a href="https://github.com/kabirfaisal/Bhasha_AI"><b>Bhasha AI</b></a>: Language AI project.</li> <li><a href="https://github.com/kabirfaisal/daily_wor_assistant"><b>Daily Work Assistant</b></a>: AI assistant for everyday work tasks.</li> </ul> <h3>📊 Data Science &amp; ML Projects</h3> <ul> <li><a href="https://github.com/kabirfaisal/Time_Series_analysis_using_LSTM"><b>Fuel Price Forecasting (LSTM)</b></a>: Time-series forecasting, from my master's project.</li> <li><a href="https://github.com/kabirfaisal/Covid_data_analysis_SQL_Tableau"><b>COVID-19 Data Exploration</b></a>: SQL analysis with a Tableau dashboard.</li> <li><a href="https://github.com/kabirfaisal/Movie_industry_correlation_analysis"><b>Movie Industry Analysis</b></a>: What drives box-office revenue.</li> <li><a href="https://github.com/kabirfaisal/STANDARD-DEEP-NETWORK-IN-KERAS"><b>Deep Network in Keras</b></a>: A standard deep neural network built in Keras.</li> </ul> <hr> <p align="center">💬 Open to Data Science / ML roles and collaborations.</p>
+<h1 align="center">Hi, I'm Faisal Kabir 👋</h1>
+<h3 align="center">AI Engineer · Data Scientist · ML Engineer · Building with LLMs</h3>
+<p align="center">
+  <a href="https://kabirfaisal.de">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/md-faisal-kabir-2203a4a1/">LinkedIn</a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+<hr>
+<h3>🧑‍💻 About Me</h3>
+<p>
+I'm an AI engineer with a master's degree in machine learning, deep learning etc.
+My recent work focuses on < b> decision-making deep models and Large Language Models</b>: running models locally, also in the cloud, building practical AI assistants, and applying NLP to real-world problems, including low-resource languages.
+I enjoy taking an idea from raw data all the way to a working tool people can use.
+</p>
+<ul>
+  <li>🔭 <b>Currently building:</b> AI assistants powered by local and open-source LLMs</li>
+  <li>🌱 <b>Exploring:</b> Retrieval-Augmented Generation (RAG), AI agents, and model evaluation</li>
+  <li>🤝 <b>Open to:</b> Data Science / ML / AI Engineer roles and collaborations</li>
+</ul>
+<hr>
+<h3>🤖 AI &amp; LLM Projects</h3>
+<p><i>🔒 These repositories are private. Access is available on request; see <a href="#-request-access">Request Access</a> below.</i></p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🖥️ Local LLM Lab <sub>🔒 Private</sub></h4>
+      <p>A hands-on lab for running and testing open-source LLMs on a local machine, with no cloud APIs needed.
+      Compares models on speed, quality, and resource use, and experiments with prompting techniques for privacy-friendly AI.</p>
+      <p><code>Python</code> <code>Open-source LLMs</code> <code>Prompt Engineering</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💼 AI JobMatch Assistant <sub>🔒 Private</sub></h4>
+      <p>An AI assistant that compares a resume against a job description, scores how well they match,
+      highlights missing skills, and suggests how to tailor the application.</p>
+      <p><code>Python</code> <code>LLMs</code> <code>NLP</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🗣️ Bhasha AI <sub>🔒 Private</sub></h4>
+      <p>A language-focused AI project ("Bhasha" means "language") applying LLMs and NLP to
+      languages that are under-served by mainstream AI tools.</p>
+      <p><code>Python</code> <code>NLP</code> <code>LLMs</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📅 Daily Work Assistant <sub>🔒 Private</sub></h4>
+      <p>A personal AI assistant that helps with everyday work: organizing tasks, summarizing information,
+      and drafting routine messages to save time.</p>
+      <p><code>Python</code> <code>LLMs</code> <code>Automation</code></p>
+    </td>
+  </tr>
+</table>
+<h3>📊 Data Science &amp; ML Projects (small)</h3>
+<ul>
+  <li><a href="https://github.com/kabirfaisal/Time_Series_analysis_using_LSTM"><b>Fuel Price Forecasting (LSTM)</b></a>: Time-series forecasting of fuel prices with LSTM networks (master's project).</li>
+  <li><a href="https://github.com/kabirfaisal/Covid_data_analysis_SQL_Tableau"><b>COVID-19 Data Exploration</b></a>: SQL analysis of global COVID-19 data, presented in an interactive Tableau dashboard.</li>
+  <li><a href="https://github.com/kabirfaisal/Movie_industry_correlation_analysis"><b>Movie Industry Analysis</b></a>: Correlation analysis of what drives box-office revenue (budget, votes, studio and more).</li>
+  <li><a href="https://github.com/kabirfaisal/STANDARD-DEEP-NETWORK-IN-KERAS"><b>Deep Network in Keras</b></a>: A standard deep neural network built and trained with Keras.</li>
+</ul>
+<hr>
+<h3>🛠️ Skills</h3>
+<table>
+  <tr><td><b>Languages</b></td><td>Python, SQL</td></tr>
+  <tr><td><b>ML / Deep Learning</b></td><td>TensorFlow, Keras, scikit-learn, LSTM / RNN / CNN</td></tr>
+  <tr><td><b>AI / LLMs</b></td><td>Open-source LLMs, Prompt Engineering, NLP</td></tr>
+  <tr><td><b>Data &amp; Visualization</b></td><td>Pandas, NumPy, Matplotlib, Seaborn, Tableau</td></tr>
+  <tr><td><b>Tools</b></td><td>Git, GitHub, Jupyter</td></tr>
+</table>
+<hr>
+<h3 id="-request-access">🔑 Request Access</h3>
+<p>
+Interested in my private AI projects? I'm happy to share code, walk through a demo, or discuss the architecture.
+Send me a message on <a href="https://kabirfaisal.de">Portfolio</a> with your GitHub username
+and which project you'd like to see, and I'll add you as a collaborator.
+</p>
+<hr>
+<p align="center">⭐ Thanks for visiting! Feel free to reach out. I'm always happy to connect.</p>
+
+
+
+
+
 

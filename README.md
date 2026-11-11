@@ -46,7 +46,7 @@ I enjoy taking an idea from raw data all the way to a working tool people can us
     <td width="50%" valign="top">
       <h4>🗣️ Bhasha AI <sub>🔒 Private</sub></h4>
       <p>A language-focused AI project ("Bhasha" means "language") applying LLMs and NLP to
-      languages that are under-served by mainstream AI tools.</p>
+      languages that are underserved by mainstream AI tools.</p>
       <p><code>Python</code> <code>NLP</code> <code>LLMs</code></p>
     </td>
     <td width="50%" valign="top">
@@ -56,22 +56,29 @@ I enjoy taking an idea from raw data all the way to a working tool people can us
       <p><code>Python</code> <code>LLMs</code> <code>Automation</code></p>
     </td>
   </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h4>📅 AI Research Assistant <sub>🔒 Private</sub></h4>
+      <p>A personal AI assistant that helps with research work: searching scientific papers, summarizing papers, and more.</p>
+      <p><code>Python</code> <code>LLMs</code> <code>Automation</code></p>
+    </td>
+  </tr>
 </table>
 <h3>📊 Data Science &amp; ML Projects (small)</h3>
 <ul>
   <li><a href="https://github.com/kabirfaisal/Time_Series_analysis_using_LSTM"><b>Fuel Price Forecasting (LSTM)</b></a>: Time-series forecasting of fuel prices with LSTM networks (master's project).</li>
   <li><a href="https://github.com/kabirfaisal/Covid_data_analysis_SQL_Tableau"><b>COVID-19 Data Exploration</b></a>: SQL analysis of global COVID-19 data, presented in an interactive Tableau dashboard.</li>
-  <li><a href="https://github.com/kabirfaisal/Movie_industry_correlation_analysis"><b>Movie Industry Analysis</b></a>: Correlation analysis of what drives box-office revenue (budget, votes, studio and more).</li>
+  <li><a href="https://github.com/kabirfaisal/Movie_industry_correlation_analysis"><b>Movie Industry Analysis</b></a>: Correlation analysis of what drives box-office revenue (budget, votes, studio, and more).</li>
   <li><a href="https://github.com/kabirfaisal/STANDARD-DEEP-NETWORK-IN-KERAS"><b>Deep Network in Keras</b></a>: A standard deep neural network built and trained with Keras.</li>
 </ul>
 <hr>
 <h3>🛠️ Skills</h3>
 <table>
-  <tr><td><b>Languages</b></td><td>Python, SQL</td></tr>
-  <tr><td><b>ML / Deep Learning</b></td><td>TensorFlow, Keras, scikit-learn, LSTM / RNN / CNN</td></tr>
-  <tr><td><b>AI / LLMs</b></td><td>Open-source LLMs, Prompt Engineering, NLP</td></tr>
-  <tr><td><b>Data &amp; Visualization</b></td><td>Pandas, NumPy, Matplotlib, Seaborn, Tableau</td></tr>
-  <tr><td><b>Tools</b></td><td>Git, GitHub, Jupyter</td></tr>
+  <tr><td><b>Languages</b></td><td>Python, SQL etc.</td></tr>
+  <tr><td><b>ML / Deep Learning</b></td><td>TensorFlow, Keras, scikit-learn, LSTM / RNN / CNN etc.</td></tr>
+  <tr><td><b>AI / LLMs</b></td><td>Open-source LLMs, Prompt Engineering, NLP etc.</td></tr>
+  <tr><td><b>Data &amp; Visualization</b></td><td>Pandas, NumPy, Matplotlib, Seaborn, Tableau etc.</td></tr>
+  <tr><td><b>Tools</b></td><td>Git, GitHub, Jupyter etc.</td></tr>
 </table>
 <hr>
 <h3 id="-request-access">🔑 Request Access</h3>

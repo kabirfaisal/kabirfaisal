@@ -17,13 +17,53 @@
 <p>
 I'm an AI engineer with a master's degree in machine learning, deep learning etc.
 My recent work focuses on < b> decision-making deep models and Large Language Models</b>: running models locally, also in the cloud, building practical AI assistants, and applying NLP to real-world problems, including low-resource languages.
-I enjoy taking an idea from raw data all the way to a working tool people can use.
+I enjoy taking an idea from raw data to a working tool people can use.
 </p>
 <ul>
   <li>🔭 <b>Currently building:</b> AI assistants powered by local and open-source LLMs</li>
   <li>🌱 <b>Exploring:</b> Retrieval-Augmented Generation (RAG), AI agents, and model evaluation</li>
   <li>🤝 <b>Open to:</b> Data Science / ML / AI Engineer roles and collaborations</li>
 </ul>
+<hr>
+
+<h3>🎓 Research &amp; Publications</h3>
+<p>
+Research Assistant and PhD student in the <b>Intelligent Systems Group at Kiel University</b> (since 2022).
+My PhD focuses on a <b>diagnosis recommendation system for emergency medicine</b>, which helps clinicians reach a
+diagnosis from incomplete, heterogeneous, and time-critical patient data.
+</p>
+
+<ul>
+  <li>🧠 <b>Multimodal deep learning</b> on clinical text, image, tabular and time-series data</li>
+  <li>🧩 <b>Data quality:</b> synthetic data generation (WLSTM-GAN) and missing-value imputation</li>
+  <li>🚑 <b>KIT2 (TeleNotArzt):</b> an AI assistant for tele-emergency care, built with RWTH Aachen University</li>
+</ul>
+
+<details>
+  <summary><b>📄 Selected publications</b> (click to expand)</summary>
+  <br>
+  <ul>
+    <li><b>Enhancing Disease Classification in Emergency Medical Scenarios Through Synthetic Data: A Comparative Study</b><br>
+    <i>Agents and Artificial Intelligence</i>, LNCS, Springer Nature, 2026. <a href="https://doi.org/10.1007/978-3-032-25035-3_14">DOI</a></li>
+    <li><b>Diagnosis and Treatment Support as an AI-Driven Assistant System for TeleNotary Emergency Care</b><br>
+    ICAART 2026. <a href="https://doi.org/10.5220/0014481000004052">DOI</a></li>
+    <li><b>Synthetic Data Generation for Emergency Medical Systems: A Systematic Comparison of Tabular GAN Extensions</b><br>
+    ICAART 2025. <a href="https://doi.org/10.5220/0013307200003890">DOI</a></li>
+    <li><b>A Deep Analysis for Medical Emergency Missing Value Imputation</b><br>
+    ICAART 2024. <a href="https://doi.org/10.5220/0012457300003636">DOI</a></li>
+    <li><b>A Deep Learning Approach for the Classification of Highly Heterogeneous Data in the Context of Treatment of Medical Emergencies</b><br>
+    <i>Organic Computing</i>, Chapter 10, kassel university press, 2024. <a href="https://doi.org/10.17170/kobra-202402269661">DOI</a></li>
+  </ul>
+</details>
+
+<p>
+  🌐 <a href="https://kabirfaisal.de/">Website</a> •
+  📚 <a href="https://scholar.google.com/citations?user=8Gns9zUAAAAJ">Google Scholar</a> •
+  🆔 <a href="https://orcid.org/0009-0000-2354-2193">ORCID</a> •
+  🔬 <a href="https://www.researchgate.net/profile/Md-Faisal-Kabir-6">ResearchGate</a> •
+  ✍️ <a href="https://kabirfaisal.de/blog/index.html">Blog</a>
+</p>
+
 <hr>
 <h3>🤖 AI &amp; LLM Projects</h3>
 <p><i>🔒 These repositories are private. Access is available on request; see <a href="#-request-access">Request Access</a> below.</i></p>

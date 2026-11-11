@@ -118,7 +118,8 @@ diagnosis from incomplete, heterogeneous, and time-critical patient data.
   <tr><td><b>ML / Deep Learning</b></td><td>TensorFlow, Keras, scikit-learn, LSTM / RNN / CNN etc.</td></tr>
   <tr><td><b>AI / LLMs</b></td><td>Open-source LLMs, Prompt Engineering, NLP etc.</td></tr>
   <tr><td><b>Data &amp; Visualization</b></td><td>Pandas, NumPy, Matplotlib, Seaborn, Tableau etc.</td></tr>
-  <tr><td><b>Tools</b></td><td>Git, GitHub, Jupyter etc.</td></tr>
+  <tr><td><b>Tools</b></td><td>Git, GitHub, Jupyter, Docker, conda etc.</td></tr>
+   <tr><td><b>Cloud Service</b></td><td>AWS, Microsoft Azure etc.</td></tr>
 </table>
 <hr>
 <h3 id="-request-access">🔑 Request Access</h3>

@@ -16,7 +16,7 @@
 <h3>🧑‍💻 About Me</h3>
 <p>
 I'm an AI engineer with a master's degree in machine learning, deep learning etc.
-My recent work focuses on < b> decision-making deep models and Large Language Models</b>: running models locally, also in the cloud, building practical AI assistants, and applying NLP to real-world problems, including low-resource languages.
+My recent work focuses on decision-making deep models and large language models: running models locally and in the cloud, building practical AI assistants, and applying NLP to real-world problems, including low-resource languages.
 I enjoy taking an idea from raw data to a working tool people can use.
 </p>
 <ul>

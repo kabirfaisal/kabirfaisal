@@ -57,8 +57,8 @@ I enjoy taking an idea from raw data all the way to a working tool people can us
     </td>
   </tr>
   <tr>
-    <td width="100%" valign="top">
-      <h4>📅 AI Research Assistant <sub>🔒 Private</sub></h4>
+    <td width="50%" valign="top">
+      <h4>🔬 AI Research Assistant <sub>🔒 Private</sub></h4>
       <p>A personal AI assistant that helps with research work: searching scientific papers, summarizing papers, and more.</p>
       <p><code>Python</code> <code>LLMs</code> <code>Automation</code></p>
     </td>
